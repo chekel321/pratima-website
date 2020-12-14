@@ -1,0 +1,67 @@
+th  {
+    color: #C13941;
+     text-align: center;
+     opacity: .8;
+     padding: 3px 5px;
+     font-family: "Courier New", sans-serif;
+     text-align: center;
+     font-size: 15px;
+ 
+ 
+ 
+ }
+ td  {
+     color: #51343A;
+     text-align: center;
+     opacity: .8;
+     padding: 3px 5px;
+     font-family: "Courier New", sans-serif;
+     text-align: center;
+     font-size: 15px;
+ 
+ }
+ #tk {
+     color: #779280;
+     text-align: left;
+     font-family: "Courier New", sans-serif;
+     font-size: 17px;
+ 
+ }
+ body {
+ 
+     background:url(images/010.png);
+     background-size: 100% auto;
+     text-align: center;
+     }
+ #submit
+ {
+   color: #565606;
+     background-color: #FDD09B;
+             font-family: "Courier New", sans-serif;
+     text-align: center;
+                 font-size: 17px;
+     border-radius: 20px;
+ 
+ 
+ }
+ 
+ #clear
+ {
+   color: #565606;
+     background-color: #FDD09B;
+             font-family: "Courier New", sans-serif;
+     text-align: center;
+                 font-size: 17px;
+     border-radius: 20px;
+             }
+     
+ #print
+ {
+   color: #565606;
+     background-color: #FDD09B;
+             font-family: "Courier New", sans-serif;
+     text-align: center;
+                 font-size: 17px;
+     border-radius: 20px;
+ 
+ }
